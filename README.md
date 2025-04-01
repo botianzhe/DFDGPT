@@ -35,3 +35,7 @@
 **Conversations with forgery images from the DFDC dataset：**
 ![这是图片](/multi-turn/dfdc1.png "Magic Gardens")
 ![这是图片](/multi-turn/dfdc2.png "Magic Gardens")
+
+
+#**Cross-Dataset Output of LLM**
+![这是图片](cross-dataset-llm-output "Magic Gardens")
