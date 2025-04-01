@@ -1,41 +1,13 @@
 # DFDGPT
-#**Multi-turn Dialogue**
 
-**Conversations with real images from the FaceForensics++ dataset：**
-![这是图片](/multi-turn/real1.png "Magic Gardens")
-![这是图片](/multi-turn/real2.png "Magic Gardens")
-![这是图片](/multi-turn/real5.png "Magic Gardens")
-![这是图片](/multi-turn/real6.png "Magic Gardens")
+This repository contains supplementary materials related to DFDGPT.
 
-**Conversations with simulated fake images from the FaceForensics++ dataset：**
-![这是图片](/multi-turn/sim1.png "Magic Gardens")
-![这是图片](/multi-turn/sim2.png "Magic Gardens")
-![这是图片](/multi-turn/sim3.png "Magic Gardens")
+## Supplementary Materials
 
-**Conversations with DeepFake images from the FaceForensics++ dataset：**
-![这是图片](/multi-turn/deepfake2.png "Magic Gardens")
+The following three supplementary materials are included:
 
-**Conversations with Face2Face images from the FaceForensics++ dataset：**
-![这是图片](/multi-turn/face2face.png "Magic Gardens")
+- **Multi-turn Dialogue**
+- **Cross-Dataset Output of LLM**
+- **Textual Descriptions for KFD**
 
-**Conversations with FaceSwap images from the FaceForensics++ dataset：**
-![这是图片](/multi-turn/faceswap.png "Magic Gardens")
-
-**Conversations with NeuralTexture images from the FaceForensics++ dataset：**
-![这是图片](/multi-turn/neuraltexture2.png "Magic Gardens")
-
-**Conversations with forgery images from the CDF1 dataset：**
-![这是图片](/multi-turn/cdf11.png "Magic Gardens")
-
-![这是图片](/multi-turn/cdf12.png "Magic Gardens")
-**Conversations with forgery images from the CDF2 dataset：**
-![这是图片](/multi-turn/cdf21.png "Magic Gardens")
-![这是图片](/multi-turn/cdf22.png "Magic Gardens")
-
-**Conversations with forgery images from the DFDC dataset：**
-![这是图片](/multi-turn/dfdc1.png "Magic Gardens")
-![这是图片](/multi-turn/dfdc2.png "Magic Gardens")
-
-
-#**Cross-Dataset Output of LLM**
-![这是图片](cross-dataset-llm-output.png "Magic Gardens")
+Each of these materials has been provided in separate `.md` files. Please refer to them for details.
