@@ -1,7 +1,3 @@
-# DFDGPT
-
-This repository contains supplementary materials related to DFDGPT.
-
 ## Supplementary Materials
 
 The following three supplementary materials are included:
