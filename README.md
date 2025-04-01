@@ -1,3 +1,20 @@
 # DFDGPT
 
 ![这是图片](/multi-turn/real1.png "Magic Gardens")
+![这是图片](/multi-turn/real2.png "Magic Gardens")
+![这是图片](/multi-turn/real5.png "Magic Gardens")
+![这是图片](/multi-turn/real6.png "Magic Gardens")
+![这是图片](/multi-turn/sim1.png "Magic Gardens")
+![这是图片](/multi-turn/sim2.png "Magic Gardens")
+![这是图片](/multi-turn/sim3.png "Magic Gardens")
+![这是图片](/multi-turn/deepfake2.png "Magic Gardens")
+![这是图片](/multi-turn/face2face.png "Magic Gardens")
+![这是图片](/multi-turn/faceswap.png "Magic Gardens")
+![这是图片](/multi-turn/neuraltexture2.png "Magic Gardens")
+![这是图片](/multi-turn/cdf11.png "Magic Gardens")
+
+![这是图片](/multi-turn/cdf12.png "Magic Gardens")
+![这是图片](/multi-turn/cdf21.png "Magic Gardens")
+![这是图片](/multi-turn/cdf22.png "Magic Gardens")
+![这是图片](/multi-turn/dfdc1.png "Magic Gardens")
+![这是图片](/multi-turn/dfdc2.png "Magic Gardens")
